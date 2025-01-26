@@ -1,2 +1,2 @@
 Install tensorflow package
-pip install numpy tensorflow scikit-learn
+(pip install numpy tensorflow scikit-learn)
